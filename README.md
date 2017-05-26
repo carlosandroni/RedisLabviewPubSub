@@ -10,6 +10,13 @@ Thanks to Iwac, member of LabVIEW Users Community.
 
 Supports:
 * simple subscribe
+<<<<<<< HEAD
 * pattern subscribe
 
 The Subscribe function of the original library doesn't work, because it requires to maintain the TCP connection open.
+||||||| merged common ancestors
+* pattern subscribe
+=======
+* pattern subscribe
+The Subscribe function of the original library doesn't work, because it requires to maintain the TCP connection open.
+>>>>>>> c73aa92239594a9abe9378e801ffd1c04b4cc8b2

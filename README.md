@@ -1,7 +1,7 @@
 # RedisLabviewPubSub
 Redis Publish Subscribe with NI LabVIEW
 
-Example of Redis Publish/Susbcriber pattern usage in LabVIEW.
+Example of Redis Publish/Susbcriber pattern usage in LabVIEW 2016.
 
 It's built on top of redis-in-labview library, available at:
 https://forums.ni.com/t5/Example-Program-Drafts/REDIS-database-LabVIEW-toolkit/ta-p/3508602
